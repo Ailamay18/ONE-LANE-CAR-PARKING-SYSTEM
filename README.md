@@ -4,21 +4,21 @@ The **One-Lane Car Parking System** is a C++ project that demonstrates the use o
 
 Because cars can only leave from the same side they entered, the system uses a stack to represent the parking lane.
 
-## ✨ Features
+## Features
 
-* 🚗 Add a car to the parking lane
-* 🚙 Remove a car from the parking lane
-* 🔍 Display parked cars
-* 📊 Track parking order
-* 🧠 Demonstrates Stack (LIFO) operations
+*  Add a car to the parking lane
+*  Remove a car from the parking lane
+*  Display parked cars
+*  Track parking order
+*  Demonstrates Stack (LIFO) operations
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * C++
 * Stack Data Structure
 * Object-Oriented Programming
 
-## 🧠 Data Structure
+##  Data Structure
 
 This project uses a **Stack** based on the **LIFO (Last In, First Out)** principle.
 
@@ -34,11 +34,11 @@ Parking Lane
  Entrance / Exit
 ```
 
-## 🎯 Purpose
+##  Purpose
 
 The main purpose of this project is to demonstrate how a **Stack data structure** can be applied to a real-world situation.
 
-## 🚀 How to Run
+##  How to Run
 
 ### 1. Clone the repository
 
@@ -72,7 +72,7 @@ Through this project, I practiced:
 * Problem-solving
 * Applying data structures to real-world problems
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 * Add a graphical user interface
 * Add parking fees
@@ -81,7 +81,7 @@ Through this project, I practiced:
 * Add time-in/time-out tracking
 * Improve the user interface
 
-## 👩‍💻 Author
+##  Author
 
 **Ailamay**
 
@@ -91,4 +91,4 @@ Through this project, I practiced:
 
 ---
 
-⭐ Thanks for visiting this project!
+ Thanks for visiting this project!
