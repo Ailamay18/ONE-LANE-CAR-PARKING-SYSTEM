@@ -59,7 +59,7 @@ Open the source code using an IDE such as:
 
 Compile the C++ program and run the executable.
 
-## 📚 What I Learned
+##  What I Learned
 
 Through this project, I practiced:
 
