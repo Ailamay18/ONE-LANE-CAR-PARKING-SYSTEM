@@ -1,4 +1,4 @@
-# 🚗 One-Lane Car Parking System
+# One-Lane Car Parking System
 
 The **One-Lane Car Parking System** is a C++ project that demonstrates the use of the **Stack (LIFO — Last In, First Out)** data structure to manage cars entering and leaving a one-lane parking area.
 
